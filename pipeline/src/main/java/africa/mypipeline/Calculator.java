@@ -1,4 +1,4 @@
-package pipeline.project;
+package africa.mypipeline;
 
 public class Calculator {
     public int add(int a, int b) {
